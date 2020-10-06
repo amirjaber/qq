@@ -1,0 +1,15 @@
+-v /Users/aims/agassi/epic/FreeSurfer6.0//ms0696/postprocessing/FreeSurfer/6.0/ms0696_02_t1v.long.ms0696_base//mri/brain.mgz -f /Users/aims/agassi/epic/FreeSurfer6.0//ms0696/postprocessing/FreeSurfer/6.0/ms0696_02_t1v.long.ms0696_base//mri/lhputamen:edgecolor=yellow:edgethickness=1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 121 148 -ss axial_epic_putamen_l_ms0696_02_1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 123 148 -ss axial_epic_putamen_l_ms0696_02_2
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 125 148 -ss axial_epic_putamen_l_ms0696_02_3
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 127 148 -ss axial_epic_putamen_l_ms0696_02_4
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 129 148 -ss axial_epic_putamen_l_ms0696_02_5
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 131 148 -ss axial_epic_putamen_l_ms0696_02_6
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 133 148 -ss axial_epic_putamen_l_ms0696_02_7
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 135 148 -ss axial_epic_putamen_l_ms0696_02_8
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 137 148 -ss axial_epic_putamen_l_ms0696_02_9
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 139 148 -ss axial_epic_putamen_l_ms0696_02_10
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 141 148 -ss axial_epic_putamen_l_ms0696_02_11
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 143 148 -ss axial_epic_putamen_l_ms0696_02_12
+-viewport axial -zoom 1 -viewsize 400 400 -slice 153 145 148 -ss axial_epic_putamen_l_ms0696_02_13
+-quit

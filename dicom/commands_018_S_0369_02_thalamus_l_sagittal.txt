@@ -1,0 +1,14 @@
+-v /Users/aims/agassi/3T_ctrl/ADNI//018_S_0369/postprocessing/FreeSurfer/6.0/018_S_0369_2008-05-13.long.018_S_0369_base//mri/brain.mgz -f /Users/aims/agassi/3T_ctrl/ADNI//018_S_0369/postprocessing/FreeSurfer/6.0/018_S_0369_2008-05-13.long.018_S_0369_base//mri/lhthalamus:edgecolor=yellow:edgethickness=1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 128 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 130 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_2
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 132 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_3
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 134 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_4
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 136 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_5
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 138 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_6
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 140 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_7
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 142 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_8
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 144 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_9
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 146 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_10
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 148 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_11
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 150 133 126 -ss sagittal_ADNIctrl_thalamus_l_018_S_0369_02_12
+-quit

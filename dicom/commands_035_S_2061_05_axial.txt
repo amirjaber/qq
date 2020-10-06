@@ -1,0 +1,15 @@
+-v /Users/aims/agassi/ADNI//035_S_2061/postprocessing/FreeSurfer/6.0/ADNI_035_S_2061_MR_MPRAGE_br_raw_20121106.long.035_S_2061_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//035_S_2061/postprocessing/FreeSurfer/6.0/ADNI_035_S_2061_MR_MPRAGE_br_raw_20121106.long.035_S_2061_base//mri/rhthalamus:edgecolor=yellow:edgethickness=1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 119 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 121 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_2
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 123 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_3
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 125 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_4
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 127 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_5
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 129 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_6
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 131 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_7
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 133 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_8
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 135 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_9
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 137 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_10
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 139 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_11
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 141 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_12
+-viewport axial -zoom 1 -viewsize 400 400 -slice 118 143 131 -ss axial_ADNI_thalamus_r_035_S_2061_05_13
+-quit

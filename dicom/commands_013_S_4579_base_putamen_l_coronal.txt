@@ -1,0 +1,22 @@
+-v /Users/aims/agassi/3T_ctrl/ADNI//013_S_4579/postprocessing/FreeSurfer/6.0/013_S_4579_base//mri/brain.mgz -f /Users/aims/agassi/3T_ctrl/ADNI//013_S_4579/postprocessing/FreeSurfer/6.0/013_S_4579_base//mri/lhputamen:edgecolor=yellow:edgethickness=1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 127 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 129 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_2
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 131 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_3
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 133 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_4
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 135 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_5
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 137 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_6
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 139 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_7
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 141 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_8
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 143 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_9
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 145 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_10
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 147 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_11
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 149 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_12
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 151 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_13
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 153 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_14
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 155 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_15
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 157 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_16
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 159 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_17
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 161 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_18
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 163 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_19
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 165 -ss coronal_ADNIctrl_putamen_l_013_S_4579_base_20
+-quit

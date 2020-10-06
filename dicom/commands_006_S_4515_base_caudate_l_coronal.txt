@@ -1,0 +1,30 @@
+-v /Users/aims/agassi/ADNI//006_S_4515/postprocessing/FreeSurfer/6.0/006_S_4515_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//006_S_4515/postprocessing/FreeSurfer/6.0/006_S_4515_base//mri/lhcaudate:edgecolor=yellow:edgethickness=1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 118 -ss coronal_ADNI_caudate_l_006_S_4515_base_1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 120 -ss coronal_ADNI_caudate_l_006_S_4515_base_2
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 122 -ss coronal_ADNI_caudate_l_006_S_4515_base_3
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 124 -ss coronal_ADNI_caudate_l_006_S_4515_base_4
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 126 -ss coronal_ADNI_caudate_l_006_S_4515_base_5
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 128 -ss coronal_ADNI_caudate_l_006_S_4515_base_6
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 130 -ss coronal_ADNI_caudate_l_006_S_4515_base_7
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 132 -ss coronal_ADNI_caudate_l_006_S_4515_base_8
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 134 -ss coronal_ADNI_caudate_l_006_S_4515_base_9
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 136 -ss coronal_ADNI_caudate_l_006_S_4515_base_10
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 138 -ss coronal_ADNI_caudate_l_006_S_4515_base_11
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 140 -ss coronal_ADNI_caudate_l_006_S_4515_base_12
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 142 -ss coronal_ADNI_caudate_l_006_S_4515_base_13
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 144 -ss coronal_ADNI_caudate_l_006_S_4515_base_14
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 146 -ss coronal_ADNI_caudate_l_006_S_4515_base_15
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 148 -ss coronal_ADNI_caudate_l_006_S_4515_base_16
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 150 -ss coronal_ADNI_caudate_l_006_S_4515_base_17
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 152 -ss coronal_ADNI_caudate_l_006_S_4515_base_18
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 154 -ss coronal_ADNI_caudate_l_006_S_4515_base_19
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 156 -ss coronal_ADNI_caudate_l_006_S_4515_base_20
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 158 -ss coronal_ADNI_caudate_l_006_S_4515_base_21
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 160 -ss coronal_ADNI_caudate_l_006_S_4515_base_22
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 162 -ss coronal_ADNI_caudate_l_006_S_4515_base_23
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 164 -ss coronal_ADNI_caudate_l_006_S_4515_base_24
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 166 -ss coronal_ADNI_caudate_l_006_S_4515_base_25
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 168 -ss coronal_ADNI_caudate_l_006_S_4515_base_26
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 170 -ss coronal_ADNI_caudate_l_006_S_4515_base_27
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 172 -ss coronal_ADNI_caudate_l_006_S_4515_base_28
+-quit

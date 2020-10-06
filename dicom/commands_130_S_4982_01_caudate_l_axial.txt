@@ -1,0 +1,19 @@
+-v /Users/aims/agassi/ADNI//130_S_4982/postprocessing/FreeSurfer/6.0/ADNI_130_S_4982_MR_MPRAGE_br_raw_20121023.long.130_S_4982_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//130_S_4982/postprocessing/FreeSurfer/6.0/ADNI_130_S_4982_MR_MPRAGE_br_raw_20121023.long.130_S_4982_base//mri/lhcaudate:edgecolor=yellow:edgethickness=1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 109 159 -ss axial_ADNI_caudate_l_130_S_4982_01_1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 111 159 -ss axial_ADNI_caudate_l_130_S_4982_01_2
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 113 159 -ss axial_ADNI_caudate_l_130_S_4982_01_3
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 115 159 -ss axial_ADNI_caudate_l_130_S_4982_01_4
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 117 159 -ss axial_ADNI_caudate_l_130_S_4982_01_5
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 119 159 -ss axial_ADNI_caudate_l_130_S_4982_01_6
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 121 159 -ss axial_ADNI_caudate_l_130_S_4982_01_7
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 123 159 -ss axial_ADNI_caudate_l_130_S_4982_01_8
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 125 159 -ss axial_ADNI_caudate_l_130_S_4982_01_9
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 127 159 -ss axial_ADNI_caudate_l_130_S_4982_01_10
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 129 159 -ss axial_ADNI_caudate_l_130_S_4982_01_11
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 131 159 -ss axial_ADNI_caudate_l_130_S_4982_01_12
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 133 159 -ss axial_ADNI_caudate_l_130_S_4982_01_13
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 135 159 -ss axial_ADNI_caudate_l_130_S_4982_01_14
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 137 159 -ss axial_ADNI_caudate_l_130_S_4982_01_15
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 139 159 -ss axial_ADNI_caudate_l_130_S_4982_01_16
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 141 159 -ss axial_ADNI_caudate_l_130_S_4982_01_17
+-quit

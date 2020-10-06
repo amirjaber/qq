@@ -1,0 +1,19 @@
+-v /Users/aims/agassi/epic/FreeSurfer6.0//ms0286/postprocessing/FreeSurfer/6.0/ms0286_base//mri/brain.mgz -f /Users/aims/agassi/epic/FreeSurfer6.0//ms0286/postprocessing/FreeSurfer/6.0/ms0286_base//mri/lhcaudate:edgecolor=yellow:edgethickness=1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 109 159 -ss axial_epic_caudate_l_ms0286_ba_1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 111 159 -ss axial_epic_caudate_l_ms0286_ba_2
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 113 159 -ss axial_epic_caudate_l_ms0286_ba_3
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 115 159 -ss axial_epic_caudate_l_ms0286_ba_4
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 117 159 -ss axial_epic_caudate_l_ms0286_ba_5
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 119 159 -ss axial_epic_caudate_l_ms0286_ba_6
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 121 159 -ss axial_epic_caudate_l_ms0286_ba_7
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 123 159 -ss axial_epic_caudate_l_ms0286_ba_8
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 125 159 -ss axial_epic_caudate_l_ms0286_ba_9
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 127 159 -ss axial_epic_caudate_l_ms0286_ba_10
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 129 159 -ss axial_epic_caudate_l_ms0286_ba_11
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 131 159 -ss axial_epic_caudate_l_ms0286_ba_12
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 133 159 -ss axial_epic_caudate_l_ms0286_ba_13
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 135 159 -ss axial_epic_caudate_l_ms0286_ba_14
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 137 159 -ss axial_epic_caudate_l_ms0286_ba_15
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 139 159 -ss axial_epic_caudate_l_ms0286_ba_16
+-viewport axial -zoom 1 -viewsize 400 400 -slice 140 141 159 -ss axial_epic_caudate_l_ms0286_ba_17
+-quit

@@ -1,0 +1,31 @@
+-v /Users/aims/agassi/3T_ctrl/ADNI//129_S_0778/postprocessing/FreeSurfer/6.0/129_S_0778_base//mri/brain.mgz -f /Users/aims/agassi/3T_ctrl/ADNI//129_S_0778/postprocessing/FreeSurfer/6.0/129_S_0778_base//mri/rhcaudate:edgecolor=yellow:edgethickness=1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 119 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 121 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_2
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 123 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_3
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 125 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_4
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 127 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_5
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 129 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_6
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 131 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_7
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 133 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_8
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 135 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_9
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 137 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_10
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 139 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_11
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 141 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_12
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 143 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_13
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 145 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_14
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 147 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_15
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 149 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_16
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 151 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_17
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 153 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_18
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 155 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_19
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 157 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_20
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 159 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_21
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 161 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_22
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 163 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_23
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 165 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_24
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 167 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_25
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 169 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_26
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 171 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_27
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 173 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_28
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 111 123 175 -ss coronal_ADNIctrl_caudate_r_129_S_0778_base_29
+-quit

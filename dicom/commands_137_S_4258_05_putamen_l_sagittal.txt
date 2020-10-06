@@ -1,0 +1,13 @@
+-v /Users/aims/agassi/ADNI//137_S_4258/postprocessing/FreeSurfer/6.0/ADNI_137_S_4258_MR_MPRAGE_br_raw_20140121.long.137_S_4258_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//137_S_4258/postprocessing/FreeSurfer/6.0/ADNI_137_S_4258_MR_MPRAGE_br_raw_20140121.long.137_S_4258_base//mri/lhputamen:edgecolor=yellow:edgethickness=1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 139 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 141 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_2
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 143 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_3
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 145 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_4
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 147 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_5
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 149 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_6
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 151 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_7
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 153 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_8
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 155 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_9
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 157 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_10
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 159 135 148 -ss sagittal_ADNI_putamen_l_137_S_4258_05_11
+-quit

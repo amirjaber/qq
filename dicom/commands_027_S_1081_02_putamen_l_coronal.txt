@@ -1,0 +1,22 @@
+-v /Users/aims/agassi/ADNI//027_S_1081/postprocessing/FreeSurfer/6.0/ADNI_027_S_1081_MR_MPRAGE_br_raw_20090204142703125_1_S62633_I135176.long.027_S_1081_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//027_S_1081/postprocessing/FreeSurfer/6.0/ADNI_027_S_1081_MR_MPRAGE_br_raw_20090204142703125_1_S62633_I135176.long.027_S_1081_base//mri/lhputamen:edgecolor=yellow:edgethickness=1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 127 -ss coronal_ADNI_putamen_l_027_S_1081_02_1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 129 -ss coronal_ADNI_putamen_l_027_S_1081_02_2
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 131 -ss coronal_ADNI_putamen_l_027_S_1081_02_3
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 133 -ss coronal_ADNI_putamen_l_027_S_1081_02_4
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 135 -ss coronal_ADNI_putamen_l_027_S_1081_02_5
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 137 -ss coronal_ADNI_putamen_l_027_S_1081_02_6
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 139 -ss coronal_ADNI_putamen_l_027_S_1081_02_7
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 141 -ss coronal_ADNI_putamen_l_027_S_1081_02_8
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 143 -ss coronal_ADNI_putamen_l_027_S_1081_02_9
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 145 -ss coronal_ADNI_putamen_l_027_S_1081_02_10
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 147 -ss coronal_ADNI_putamen_l_027_S_1081_02_11
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 149 -ss coronal_ADNI_putamen_l_027_S_1081_02_12
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 151 -ss coronal_ADNI_putamen_l_027_S_1081_02_13
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 153 -ss coronal_ADNI_putamen_l_027_S_1081_02_14
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 155 -ss coronal_ADNI_putamen_l_027_S_1081_02_15
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 157 -ss coronal_ADNI_putamen_l_027_S_1081_02_16
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 159 -ss coronal_ADNI_putamen_l_027_S_1081_02_17
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 161 -ss coronal_ADNI_putamen_l_027_S_1081_02_18
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 163 -ss coronal_ADNI_putamen_l_027_S_1081_02_19
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 151 134 165 -ss coronal_ADNI_putamen_l_027_S_1081_02_20
+-quit

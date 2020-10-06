@@ -1,0 +1,30 @@
+-v /Users/aims/agassi/ADNI//037_S_0588/postprocessing/FreeSurfer/6.0/ADNI_037_S_0588_MR_MPRAGE_br_raw_20080617.long.037_S_0588_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//037_S_0588/postprocessing/FreeSurfer/6.0/ADNI_037_S_0588_MR_MPRAGE_br_raw_20080617.long.037_S_0588_base//mri/lhcaudate:edgecolor=yellow:edgethickness=1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 118 -ss coronal_ADNI_caudate_l_037_S_0588_03_1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 120 -ss coronal_ADNI_caudate_l_037_S_0588_03_2
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 122 -ss coronal_ADNI_caudate_l_037_S_0588_03_3
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 124 -ss coronal_ADNI_caudate_l_037_S_0588_03_4
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 126 -ss coronal_ADNI_caudate_l_037_S_0588_03_5
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 128 -ss coronal_ADNI_caudate_l_037_S_0588_03_6
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 130 -ss coronal_ADNI_caudate_l_037_S_0588_03_7
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 132 -ss coronal_ADNI_caudate_l_037_S_0588_03_8
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 134 -ss coronal_ADNI_caudate_l_037_S_0588_03_9
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 136 -ss coronal_ADNI_caudate_l_037_S_0588_03_10
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 138 -ss coronal_ADNI_caudate_l_037_S_0588_03_11
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 140 -ss coronal_ADNI_caudate_l_037_S_0588_03_12
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 142 -ss coronal_ADNI_caudate_l_037_S_0588_03_13
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 144 -ss coronal_ADNI_caudate_l_037_S_0588_03_14
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 146 -ss coronal_ADNI_caudate_l_037_S_0588_03_15
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 148 -ss coronal_ADNI_caudate_l_037_S_0588_03_16
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 150 -ss coronal_ADNI_caudate_l_037_S_0588_03_17
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 152 -ss coronal_ADNI_caudate_l_037_S_0588_03_18
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 154 -ss coronal_ADNI_caudate_l_037_S_0588_03_19
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 156 -ss coronal_ADNI_caudate_l_037_S_0588_03_20
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 158 -ss coronal_ADNI_caudate_l_037_S_0588_03_21
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 160 -ss coronal_ADNI_caudate_l_037_S_0588_03_22
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 162 -ss coronal_ADNI_caudate_l_037_S_0588_03_23
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 164 -ss coronal_ADNI_caudate_l_037_S_0588_03_24
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 166 -ss coronal_ADNI_caudate_l_037_S_0588_03_25
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 168 -ss coronal_ADNI_caudate_l_037_S_0588_03_26
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 170 -ss coronal_ADNI_caudate_l_037_S_0588_03_27
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 172 -ss coronal_ADNI_caudate_l_037_S_0588_03_28
+-quit

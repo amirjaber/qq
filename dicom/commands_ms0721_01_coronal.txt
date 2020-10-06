@@ -1,0 +1,30 @@
+-v /Users/aims/agassi/epic/FreeSurfer6.0//ms0721/postprocessing/FreeSurfer/6.0/ms0721_01_t1v.long.ms0721_base//mri/brain.mgz -f /Users/aims/agassi/epic/FreeSurfer6.0//ms0721/postprocessing/FreeSurfer/6.0/ms0721_01_t1v.long.ms0721_base//mri/lhcaudate:edgecolor=yellow:edgethickness=1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 118 -ss coronal_epic_caudate_l_ms0721_01_1
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 120 -ss coronal_epic_caudate_l_ms0721_01_2
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 122 -ss coronal_epic_caudate_l_ms0721_01_3
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 124 -ss coronal_epic_caudate_l_ms0721_01_4
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 126 -ss coronal_epic_caudate_l_ms0721_01_5
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 128 -ss coronal_epic_caudate_l_ms0721_01_6
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 130 -ss coronal_epic_caudate_l_ms0721_01_7
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 132 -ss coronal_epic_caudate_l_ms0721_01_8
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 134 -ss coronal_epic_caudate_l_ms0721_01_9
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 136 -ss coronal_epic_caudate_l_ms0721_01_10
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 138 -ss coronal_epic_caudate_l_ms0721_01_11
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 140 -ss coronal_epic_caudate_l_ms0721_01_12
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 142 -ss coronal_epic_caudate_l_ms0721_01_13
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 144 -ss coronal_epic_caudate_l_ms0721_01_14
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 146 -ss coronal_epic_caudate_l_ms0721_01_15
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 148 -ss coronal_epic_caudate_l_ms0721_01_16
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 150 -ss coronal_epic_caudate_l_ms0721_01_17
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 152 -ss coronal_epic_caudate_l_ms0721_01_18
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 154 -ss coronal_epic_caudate_l_ms0721_01_19
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 156 -ss coronal_epic_caudate_l_ms0721_01_20
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 158 -ss coronal_epic_caudate_l_ms0721_01_21
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 160 -ss coronal_epic_caudate_l_ms0721_01_22
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 162 -ss coronal_epic_caudate_l_ms0721_01_23
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 164 -ss coronal_epic_caudate_l_ms0721_01_24
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 166 -ss coronal_epic_caudate_l_ms0721_01_25
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 168 -ss coronal_epic_caudate_l_ms0721_01_26
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 170 -ss coronal_epic_caudate_l_ms0721_01_27
+-viewport coronal -zoom 1 -viewsize 400 400 -slice 142 124 172 -ss coronal_epic_caudate_l_ms0721_01_28
+-quit

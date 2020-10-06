@@ -1,0 +1,16 @@
+-v /Users/aims/agassi/ADNI//035_S_4785/postprocessing/FreeSurfer/6.0/035_S_4785_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//035_S_4785/postprocessing/FreeSurfer/6.0/035_S_4785_base//mri/rhthalamus:edgecolor=yellow:edgethickness=1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 102 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 104 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_2
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 106 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_3
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 108 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_4
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 110 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_5
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 112 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_6
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 114 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_7
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 116 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_8
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 118 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_9
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 120 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_10
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 122 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_11
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 124 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_12
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 126 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_13
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 128 133 126 -ss sagittal_ADNI_thalamus_r_035_S_4785_base_14
+-quit

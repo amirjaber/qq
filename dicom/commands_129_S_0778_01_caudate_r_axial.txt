@@ -1,0 +1,19 @@
+-v /Users/aims/agassi/3T_ctrl/ADNI//129_S_0778/postprocessing/FreeSurfer/6.0/129_S_0778_2010-11-18.long.129_S_0778_base//mri/brain.mgz -f /Users/aims/agassi/3T_ctrl/ADNI//129_S_0778/postprocessing/FreeSurfer/6.0/129_S_0778_2010-11-18.long.129_S_0778_base//mri/rhcaudate:edgecolor=yellow:edgethickness=1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 109 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_1
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 111 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_2
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 113 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_3
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 115 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_4
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 117 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_5
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 119 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_6
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 121 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_7
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 123 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_8
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 125 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_9
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 127 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_10
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 129 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_11
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 131 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_12
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 133 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_13
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 135 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_14
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 137 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_15
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 139 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_16
+-viewport axial -zoom 1 -viewsize 400 400 -slice 112 141 159 -ss axial_ADNIctrl_caudate_r_129_S_0778_01_17
+-quit

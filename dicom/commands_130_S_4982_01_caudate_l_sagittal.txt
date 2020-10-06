@@ -1,0 +1,12 @@
+-v /Users/aims/agassi/ADNI//130_S_4982/postprocessing/FreeSurfer/6.0/ADNI_130_S_4982_MR_MPRAGE_br_raw_20121023.long.130_S_4982_base//mri/brain.mgz -f /Users/aims/agassi/ADNI//130_S_4982/postprocessing/FreeSurfer/6.0/ADNI_130_S_4982_MR_MPRAGE_br_raw_20121023.long.130_S_4982_base//mri/lhcaudate:edgecolor=yellow:edgethickness=1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 132 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_1
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 134 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_2
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 136 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_3
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 138 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_4
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 140 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_5
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 142 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_6
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 144 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_7
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 146 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_8
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 148 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_9
+-viewport sagittal -zoom 1 -viewsize 400 400 -slice 150 126 150 -ss sagittal_ADNI_caudate_l_130_S_4982_01_10
+-quit
